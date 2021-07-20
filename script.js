@@ -7,6 +7,6 @@ function valuecheck(){
         return alert("Wohoo Congrats Nemo!")
     }
     else{
-        return alert("Ehhh, wrong name ! ")
+        return alert("Ehhh, wrong name! You can do better. ")
     }
 }
