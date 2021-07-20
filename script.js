@@ -4,7 +4,7 @@ function valuecheck(){
     console.log("value", val)
 
     if (val === "nemo"){
-        return alert("Wohoo Congrats Nemo!")
+        return alert("yo Congrats Nemo! All the best now !")
     }
     else{
         return alert("Ehhh, wrong name! You can do better. ")
